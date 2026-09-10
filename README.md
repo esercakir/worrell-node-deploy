@@ -1,3 +1,5 @@
+[🇬🇧 English](README.en.md) | 🇹🇷 Türkçe
+
 # Worrell Testnet Node Kurulumu
 
 Resmi kaynaklar:
